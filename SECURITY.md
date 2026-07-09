@@ -1,3 +1,3 @@
 # Security
 
-Report vulnerabilities to security@example.com
+Report issues to security@example.com

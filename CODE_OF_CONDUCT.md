@@ -1,3 +1,3 @@
 # Code of Conduct
 
-We expect professional behavior.
+Be respectful.

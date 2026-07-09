@@ -1,3 +1,3 @@
 # Contributing
 
-Please read the guidelines to contribute.
+Please refer to the organization guide.
